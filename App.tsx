@@ -3,7 +3,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import MapboxGL from '@rnmapbox/maps';
-import DangerousLocationsMap from './src/screens/DangerousLocationsMap';
+import DangerousLocationsMap from './src/screeens/DangerousLocations';
 import { StatusBar } from 'react-native';
 
 // Define the stack parameter list type
